@@ -1,0 +1,58 @@
+body{
+    background-color:beige;
+    color: WHITE;
+    text-shadow: 2px 2px BLACK;
+    background-image:url("pexels-pixabay-531880.jpg");
+    background-repeat:  no-repeat;
+    background-position: right top;
+    margin-right: 200px;
+    padding: 20px;
+}
+H1{
+    text-align: center;
+    font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+
+}
+h2{
+    font-size: 30px;
+    
+}
+.menu {
+    width: 80%;
+    background-color: lightseagreen;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+  }
+  .spa{
+    text-shadow: 2px 2px white;
+    color: black;
+  }
+.item p{
+    display: inline-block;
+    text-shadow: 2px 2px white;
+    color: BLACK;
+}
+.flavor{
+    text-align: left;
+    width: 50%;
+}
+.price{
+    text-align: right;
+    width: 50%;
+}
+hr{
+    height: 2px;
+  background-color: BLACK;
+  border-color: BLACK;
+}
+.bottom-line {
+    margin-top: 25px;
+  }
+  footer{
+    text-shadow: 2PX 2PX WHITE;
+    color: black;
+  }
