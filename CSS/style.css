@@ -5,7 +5,6 @@ body{
     background-image:url("pexels-pixabay-531880.jpg");
     background-repeat:  no-repeat;
     background-position: right top;
-    margin-right: 200px;
     padding: 20px;
 }
 H1{
@@ -53,6 +52,9 @@ hr{
     margin-top: 25px;
   }
   footer{
-    text-shadow: 2PX 2PX WHITE;
-    color: black;
+  text-shadow: 2PX 2PX WHITE;
+    color:BLACK;
+  }
+  .INFO{
+    text-align: CENTER;
   }
